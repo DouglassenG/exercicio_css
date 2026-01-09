@@ -12,10 +12,6 @@ Este repositório contém a resolução de exercícios focados na aplicação pu
 
 O projeto resolve o desafio de apresentação de conteúdo, garantindo que textos sejam legíveis, imagens estejam alinhadas e que o layout respeite hierarquias visuais através de espaçamentos (padding/margin) e cores.
 
-## 🖼️ Demonstração Visual
-
-*(Espaço reservado para um print da página. Mostre o "Antes" [HTML puro] e o "Depois" [Com CSS] se possível, pois isso valoriza muito o seu trabalho)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 Por ser um projeto focado em fundamentos, a stack é nativa e leve:
